@@ -1,28 +1,22 @@
 # week 1
 
-## In class ….
+## Laser Cutting
 
-It was the first class, and what stood out most was the realization that designing involves framing an abstract concept and then refining it into a detailed product.
+Took Laser Cutting Online Course
 
-We did an activity where we were asked to draw the steps for making toast. For me, making toast involved just a few simple tasks:
+- learned basic rules
 
-1. Toast the bread in a toaster.
-2. Wait.
-3. Add jam and butter, then enjoy!
+Printed My First Laser Cut Key Chai
 
-It was fascinating to see how different people had various steps and approaches. Each person had a unique starting point and described the process in their own way.
+![09DD1B36-0A1B-4662-BC75-EC9DA0E068BE_1_102_o.jpeg](week%201%207f65a1bb31a446fb9837087b03a9cc22/09DD1B36-0A1B-4662-BC75-EC9DA0E068BE_1_102_o.jpeg)
 
-This made me realize how design can be approached in various ways. It was rewarding to see the aspects I might have overlooked and to understand different perspectives on the design process.
+Also had chance to take a look at other student’s laser cutter works
 
-Then we were asked to  re-design the process in a group but without talking!
+![960648C7-D010-4D78-BC77-795C6CE0D99D_1_102_o.jpeg](week%201%207f65a1bb31a446fb9837087b03a9cc22/960648C7-D010-4D78-BC77-795C6CE0D99D_1_102_o.jpeg)
 
-This is our team work!
+It was good to explore different ways to print laser cut.
 
-![7DBE74D3-E75F-4D21-8FE6-E75DC4438334_1_105_c.jpeg](week%201%207f65a1bb31a446fb9837087b03a9cc22/7DBE74D3-E75F-4D21-8FE6-E75DC4438334_1_105_c.jpeg)
-
-It turned out to be more detailed than my individual work
-
-## Outside Class…
+### PLUS
 
 Based on the design concepts we learned, I decided to design a specific object, like a phone holder. I focused on the idea that the phone is only on the holder when it’s not in use.
 
