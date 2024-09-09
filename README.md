@@ -3,7 +3,9 @@ Welcome to SUBIN's GitHub repository!
 
 # Outline
 [week 1](weekly/week1/1_review.md)
-[wee_2](weekly/week2/week2.md)
+
+
+[week_2](weekly/week2/week2.md)
 
 ---
 
