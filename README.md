@@ -1,10 +1,9 @@
 # Hello DES INV 202 Student!
-Welcome to your new GitHub repository! 
+Welcome to SUBIN's GitHub repository! 
 
 # Outline
 [week 1](weekly/week1/1_review.md)
-
-week 2, etc...
+[wee_2](weekly/week2/week2.md)
 
 ---
 
