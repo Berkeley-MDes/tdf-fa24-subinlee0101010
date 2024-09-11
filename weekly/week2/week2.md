@@ -44,3 +44,12 @@ Any changes made in Grasshopper (such as parameter adjustments or logic changes)
 How Rhino and Grasshopper Interact
 
 ![Screen Shot 2024-09-09 at 2.42.05 PM.png](week2%20719ba30e173244e79c4a6d7e42f2019b/Screen_Shot_2024-09-09_at_2.42.05_PM.png)
+
+## Getting Familiar with Laser Cutter
+
+I forgot tot take a picture but I printed a box with a laser cutter.
+But I had to go through several trials.
+1. I used 0.260 thick playwood so I cutted twice. BUT it still did not cut properly so had to start again.
+2. Second trial.. I did not consider the thickness of the wood. So when I tried to build my box into 3D it did not work.
+3. next time...
+Eventhough I did not succeed, I had a chance to get familiar with laser cutter
