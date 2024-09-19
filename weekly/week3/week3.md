@@ -12,6 +12,9 @@ This week, I focused on finalizing the design of "The Do Not Forget Stand" and r
 
 Working with the laser cutter allowed me to better understand the precision required when working with plywood, particularly regarding material thickness. I learned to adjust the design in Illustrator to account for kerf (the width of material removed by the laser) to ensure a snug fit for the pieces.
 
+my sketch! 
+<img width="650" alt="image" src="https://github.com/user-attachments/assets/5c86aa47-638d-45ff-96ed-d39c383b2e26">
+
 The project is progressing well. The prototype is functional, but I plan to refine the aesthetic aspects next, ensuring the stand is not only practical but also visually appealing.
 
 ### Speculations:
