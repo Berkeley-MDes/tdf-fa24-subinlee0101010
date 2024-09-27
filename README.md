@@ -8,10 +8,10 @@ Welcome to SUBIN's GitHub repository!
 [week2](weekly/week2/week2.md)
 
 
-[week3](weekly/week2/week3.md)
+[week3](weekly/week3/week3.md)
 
 
-[week4](weekly/week2/week4.md)
+[week4](weekly/week4/week4.md)
 
 ---
 
