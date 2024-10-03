@@ -64,3 +64,37 @@ Working on this project gave me the opportunity to explore the core principles o
 - **Conclusion:**
     - Gained insights into system timing, interrupts, and user interaction.
     - Excited to expand the system with sensors and machine learning in future projects.
+ 
+
+
+<aside>
+💡
+
+Reflection
+
+</aside>
+
+- **What I Learned**
+
+    - Understood how hardware interrupts improve system efficiency over continuous polling.
+    - Gained insight into managing timing and delays to avoid interference between tasks (LED blink and button press).
+    - Recognized the importance of debouncing to improve button handling.
+    - 
+- **Current State**
+
+    - System works as intended but could benefit from adding debouncing and optimizing timing.
+
+
+<aside>
+💡
+
+Speculations
+
+</aside>
+
+- **Future Directions**
+    - Add sensors (e.g., motion sensor) to make the system more interactive (e.g., changing blink speed based on movement).
+    - Incorporate machine learning to recognize user patterns and predict actions.
+ 
+- ** Industry Relevance**
+    - Similar to Philips Hue lighting system, which adjusts based on user activity and sensors, this project could evolve into a smart, predictive lighting system.
