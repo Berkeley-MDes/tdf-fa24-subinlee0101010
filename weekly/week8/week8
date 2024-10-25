@@ -3,5 +3,14 @@ Sparklee
 This week i focused on finalizing our final product.
 And went through hard time solving problems.
 
+Cohort Reflection:
+Our group has made good progress this week, particularly in integrating the pulse sensor with the Photon2 for real-time monitoring and advancing the machine learning model for sound detection. I’m impressed by Jeongmin and Hannah’s dedication to the tangible components; their work on 3D printing has gone smoothly and ahead of schedule, which was a pleasant surprise. I am also grateful to Jeongmin for stepping in to edit our project presentation video, a task that took a lot of time.
+However, I believe we could improve our communication, particularly regarding the timeline for cloud service integration. We had some delays in aligning our schedules for testing the cloud ML model, which slowed down our progress. I could contribute by ensuring we have more frequent check-ins to keep everyone on track and aligned on priorities, especially with technical dependencies.
+
+Personal Reflection:
+Personally, I feel satisfied with my performance this week, though there is room for improvement. I successfully completed the initial setup of the sound detection model and worked on training it using collected data. I also tested the integration of the pulse sensor, which met my expectations in terms of accuracy. That said, I struggled a bit with managing my time as I had additional coursework and a few unexpected meetings.
+To help my team, I coordinated the cloud integration setup for ML processing. While I met most of my personal expectations, the delays in cloud service testing hindered my overall progress. I could improve by planning my work timeline more effectively, ensuring that critical tasks like cloud integration are prioritized. Looking ahead, I plan to refine the sound detection model and optimize response times for a smoother system flow.
+
+
 
 (if curious, check out our video!)
