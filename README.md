@@ -21,6 +21,8 @@ Welcome to SUBIN's GitHub repository!
 
 [week8](weekly/week8/week8.md)
 
+[week9](weekly/week9/week9.md)
+
 ---
 
 # Github Background Information & Context
