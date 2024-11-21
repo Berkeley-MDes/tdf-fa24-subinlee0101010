@@ -27,7 +27,7 @@ Welcome to SUBIN's GitHub repository!
 
 [week11](weekly/week11/week11.md)
 
-[week12](weekly/week2/week12.md)
+[week12](weekly/week12/week12.md)
 
 ---
 
